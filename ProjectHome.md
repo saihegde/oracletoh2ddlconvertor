@@ -1,0 +1,1 @@
+try and convert oracle ddl to h2 ddl - this saved us a shed load of build time!
